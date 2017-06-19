@@ -1,0 +1,1 @@
+1  flask安装:确保python环境变量设置好的情况下直接运行pip install flask 环境变量设定到python下的Script目录。
